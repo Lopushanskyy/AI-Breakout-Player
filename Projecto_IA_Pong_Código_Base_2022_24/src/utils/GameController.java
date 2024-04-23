@@ -14,5 +14,5 @@ public interface GameController {
 	 */
 
 	public int nextMove(int[] currentState);
-
+		
 }
