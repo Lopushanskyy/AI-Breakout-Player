@@ -16,6 +16,8 @@ public class NeuralNetwork implements GameController{
 	public static void main(String[]args) {
 		NeuralNetwork nn = new NeuralNetwork();
 		Breakout b = new Breakout(nn, 3);
+		
+		
 	}
 
     
